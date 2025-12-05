@@ -1,0 +1,5 @@
+﻿  DynamicArray.cpp
+  main.cpp
+C:\Users\Acer\source\repos\resSortSearch\resSortSearch\main.cpp(14,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  resSortSearch.vcxproj -> C:\Users\Acer\source\repos\resSortSearch\x64\Debug\resSortSearch.exe
